@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+
+header {
+	width: 1600px;
+	height: 50px;
+	background-color: green;
+}
+
+.medio {
+	width: 1600px;
+	height: 300px;
+	background-color: red;
+}
+
+.posterior {
+	width: 1600px;
+	height: 50px;
+	background-color: blue;
+}
+
+.contenedor{
+	display: flex;
+}
+
+
+.uno {
+	width: 534px;
+	height: 200px;
+	background-color: gray;
+}
+
+.dos{
+	width: 534px;
+	height: 200px;
+	background-color: green;
+}
+
+.tres{
+	width: 534px;
+	height: 200px;
+	background-color: yellow;
+}
+
+footer{
+	width: 1600px;
+	height: 200px;
+	background-color: red;
+	
+}
